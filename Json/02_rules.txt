@@ -1,0 +1,9 @@
+// This is a JSON file
+
+// 1. Keys must be in double quotes
+// 2. Strings must be in double quotes
+// 3. Numbers must not be in quotes
+// 4. Booleans must be true or false
+// 5. No comments are allowed
+// No Trailing Commas
+// Data types: String, Number, Boolean, Array, Object, null.

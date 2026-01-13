@@ -1,0 +1,12 @@
+{
+    "name": "Tushar",
+    "age": 30,
+    "isStudent": false,
+    "skills": ["JavaScript", "React", "Node.js"],
+    "Address": {
+                    "street": "123 Main St",
+                    "city": "New York",
+                    "zip": "10001"
+                }
+
+}
